@@ -9,3 +9,4 @@ bin/rild
 vendor/lib/libsensor_yamaha_test.so
 vendor/bin/orientationd
 vendor/bin/geomagneticd
+vendor/bin/Certification.cer
