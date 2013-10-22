@@ -1,0 +1,32 @@
+[
+  {
+    "remote":       "omnirom",
+    "repository":   "android_device_samsung_galaxysmtd",
+    "target_path":  "device/samsung/galaxysmtd",
+    "revision":     "android-4.3"
+  },
+  {
+    "remote":       "omnirom",
+    "repository":   "android_device_samsung_aries-common",
+    "target_path":  "device/samsung/aries-common",
+    "revision":     "android-4.3"
+  },
+  {
+    "remote":       "github",
+    "repository":   "kasperhettinga/android_kernel_samsung_aries",
+    "target_path":  "kernel/samsung/aries",
+    "revision":     "twrp-cm102"
+  },
+  {
+    "remote":       "github",
+    "repository":   "CyanogenMod/android_hardware_samsung",
+    "target_path":  "hardware/samsung",
+    "revision":     "cm-10.2"
+  },
+  {
+    "remote":       "github",
+    "repository":   "TheMuppets/proprietary_vendor_samsung",
+    "target_path":  "vendor/samsung",
+    "revision":     "cm-10.2"
+  }
+]
