@@ -7,6 +7,9 @@ PRODUCT_RELEASE_NAME := GalaxyS
 # Inherit from our custom product configuration
 $(call inherit-product, vendor/omni/config/common.mk)
 
+# Inherit from our custom product configuration
+$(call inherit-product, vendor/omni/config/gsm.mk)
+
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := galaxysmtd
 PRODUCT_NAME := omni_galaxysmtd
