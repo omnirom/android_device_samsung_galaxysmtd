@@ -16,5 +16,5 @@
 -->
 
 <resources xmlns:xliff="urnasis:names:tc:xliff:document:1.2 ">
-    <bool name="config_show_homeWake">true</bool>
+    <!-- <bool name="config_show_homeWake">true</bool> -->
 </resources>
