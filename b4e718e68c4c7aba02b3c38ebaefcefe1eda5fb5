@@ -16,6 +16,24 @@
       "revId": "b4e718e68c4c7aba02b3c38ebaefcefe1eda5fb5",
       "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ab89d9a9_71e09627",
+        "filename": "omni_galaxysmtd.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1000084
+      },
+      "writtenOn": "2013-11-20T16:10:11Z",
+      "side": 1,
+      "message": "GSM call inherit is below common.mk on I9100G and on top at jfs. But I can move it to top if you want.",
+      "parentUuid": "ab89d9a9_b1469e53",
+      "revId": "b4e718e68c4c7aba02b3c38ebaefcefe1eda5fb5",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
     }
   ]
 }
