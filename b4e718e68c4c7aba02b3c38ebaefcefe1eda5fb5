@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ab89d9a9_b1469e53",
+        "filename": "omni_galaxysmtd.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1000023
+      },
+      "writtenOn": "2013-11-20T16:00:00Z",
+      "side": 1,
+      "message": "This is probably needs to go at the beggining of the file to work properly. See other devicetrees for referenece.",
+      "revId": "b4e718e68c4c7aba02b3c38ebaefcefe1eda5fb5",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
+    }
+  ]
+}
