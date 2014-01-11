@@ -1,8 +1,8 @@
 [
   {
     "remote":       "omnirom",
-    "repository":   "android_device_samsung_galaxysmtd",
-    "target_path":  "device/samsung/galaxysmtd",
+    "repository":   "android_packages_apps_SamsungServiceMode",
+    "target_path":  "packages/apps/SamsungServiceMode",
     "revision":     "android-4.4"
   },
   {
