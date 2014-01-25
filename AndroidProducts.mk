@@ -27,4 +27,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_galaxysmtd.mk
+    $(LOCAL_DIR)/omni_galaxysmtd.mk \
+    $(LOCAL_DIR)/du.mk
