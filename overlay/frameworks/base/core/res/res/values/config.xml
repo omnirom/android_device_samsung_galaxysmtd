@@ -34,4 +34,8 @@
 
     <!-- Boolean to enable stk functionality on Samsung phones -->
     <bool name="config_samsung_stk">true</bool>
+
+    <!-- SD card is hot-pluggable on this device variant -->
+    <bool name="config_batterySdCardAccessibility">true</bool>
+
 </resources>
