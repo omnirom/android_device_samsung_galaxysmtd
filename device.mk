@@ -43,9 +43,10 @@ DEVICE_PACKAGE_OVERLAYS += \
 PRODUCT_COPY_FILES := \
 	device/samsung/galaxysmtd/asound.conf:system/etc/asound.conf
 
-# Prebuilt kl keymaps
+# Prebuilt kl and kcm keymaps
 PRODUCT_COPY_FILES += \
-	device/samsung/galaxysmtd/aries-keypad.kl:system/usr/keylayout/aries-keypad.kl
+	device/samsung/galaxysmtd/aries-keypad.kl:system/usr/keylayout/aries-keypad.kl \
+	device/samsung/galaxysmtd/aries-keypad.kcm:system/usr/keychars/aries-keypad.kcm
 
 # We have FFC
 PRODUCT_COPY_FILES += \
