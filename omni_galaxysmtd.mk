@@ -22,7 +22,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/omni/config/gsm.mk)
 
 # bootanimation
-TARGET_BOOTANIMATION_SIZE := 360x240
+TARGET_BOOTANIMATION_SIZE := 480x320
 
 # Inherit from our custom product configuration
 $(call inherit-product, vendor/omni/config/common.mk)
